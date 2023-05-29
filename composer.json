@@ -1,11 +1,11 @@
 {
-    "name": "devpac/dashbaord",
+    "name": "devpack/dashbaord",
     "description": "Easy and effective dashboard ",
     "keywords": [
-        "devpac",
+        "devpack",
         "dashbaord"
     ],
-    "homepage": "https://github.com/devpac/dashbaord",
+    "homepage": "https://github.com/devpack/dashbaord",
     "license": "MIT",
     "type": "library",
     "authors": [
